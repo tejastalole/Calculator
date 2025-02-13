@@ -1,1 +1,1 @@
-Proejct Name :  Calculator (HTML CSS & JAVASCRIPT)
+Proejct Name :  Calculator (HTML, CSS, JAVASCRIPT)
